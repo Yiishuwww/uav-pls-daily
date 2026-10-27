@@ -1,0 +1,4 @@
+# Cloudflare Pages / GitHub Pages
+User-agent: *
+Allow: /
+

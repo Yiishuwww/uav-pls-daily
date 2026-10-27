@@ -1,0 +1,81 @@
+name: Daily UAV PLS brief
+
+on:
+  schedule:
+    # 22:30 UTC = 06:30 Asia/Shanghai on the following calendar day.
+    - cron: "30 22 * * *"
+  workflow_dispatch:
+    inputs:
+      skip_arxiv:
+        description: Skip arXiv (OpenAlex only)
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-uav-pls-brief
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Fetch papers
+        env:
+          SKIP_ARXIV: ${{ github.event.inputs.skip_arxiv == 'true' && '1' || '0' }}
+        run: node scripts/fetch-papers.mjs
+
+      - name: Validate generated data
+        run: node scripts/validate-data.mjs
+
+      - name: Prepare WeChat notification
+        env:
+          SITE_URL: ${{ secrets.SITE_URL }}
+          WECOM_WEBHOOK_URL: ${{ secrets.WECOM_WEBHOOK_URL }}
+          PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
+          SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
+        run: node scripts/notify.mjs
+
+      - name: Persist paper archive
+        run: |
+          git config user.name "uav-pls-radar[bot]"
+          git config user.email "uav-pls-radar[bot]@users.noreply.github.com"
+          git add site/data.js site/data.json site/feed.xml
+          if git diff --cached --quiet; then
+            echo "No generated data changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update UAV PLS daily papers"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

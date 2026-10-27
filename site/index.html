@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="每天聚合物理层安全与无人机通信方向的最新论文，提供主题筛选、中文导读和原文链接。" />
+  <meta name="theme-color" content="#0b2233" />
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+  <title>UAV · PLS Radar | 无人机物理层安全论文雷达</title>
+  <link rel="stylesheet" href="./assets/styles.css" />
+  <link rel="alternate" type="application/atom+xml" title="UAV PLS Radar RSS" href="./feed.xml" />
+</head>
+<body>
+  <div class="page-noise" aria-hidden="true"></div>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="返回顶部">
+      <span class="brand-mark" aria-hidden="true">
+        <span>U</span><i></i><span>P</span>
+      </span>
+      <span class="brand-copy">
+        <strong>UAV · PLS Radar</strong>
+        <small>RESEARCH SIGNAL</small>
+      </span>
+    </a>
+    <nav class="top-nav" aria-label="主导航">
+      <a href="#overview">概览</a>
+      <a href="#focus">焦点</a>
+      <a href="#papers">论文库</a>
+      <a href="./feed.xml">RSS</a>
+    </nav>
+    <div class="sync-state" id="syncState">
+      <span class="sync-dot"></span>
+      <span>数据同步</span>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="hero section-shell" id="overview">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="live-dot"></span> DAILY RESEARCH BRIEF <span class="eyebrow-sep">/</span> <span id="heroDate">--</span></p>
+        <h1>捕捉无人机通信中的<br /><em>物理层安全</em>信号</h1>
+        <p class="hero-lead">
+          每天自动检索 arXiv 与 OpenAlex，聚焦物理层安全、保密速率、隐蔽通信、干扰与智能反射面，把真正相关的新论文整理成可检索的研究雷达。
+        </p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="#papers">浏览最新论文 <span aria-hidden="true">↗</span></a>
+          <a class="button button-quiet" href="./feed.xml">订阅 RSS</a>
+        </div>
+        <div class="hero-meta">
+          <span><i class="meta-icon meta-icon-db"></i><b id="metaTotal">--</b> 篇论文</span>
+          <span><i class="meta-icon meta-icon-time"></i>北京时间每日 06:30 更新</span>
+          <span><i class="meta-icon meta-icon-source"></i>arXiv + OpenAlex</span>
+        </div>
+      </div>
+
+      <aside class="signal-panel" aria-label="近期研究信号">
+        <div class="signal-head">
+          <span>RECENT SIGNAL</span>
+          <span class="signal-window">7D</span>
+        </div>
+        <div class="signal-number-row">
+          <strong id="recentCount">--</strong>
+          <span>篇近 7 天<br />相关论文</span>
+        </div>
+        <div class="signal-divider"></div>
+        <div class="signal-chart" id="trendChart" aria-label="近十二周论文数量趋势"></div>
+        <div class="signal-foot">
+          <span>本周主题热度</span>
+          <div class="topic-pulse" id="topicPulse"></div>
+        </div>
+      </aside>
+    </section>
+
+    <section class="stat-strip section-shell" aria-label="数据摘要">
+      <article class="stat-item">
+        <span class="stat-index">01</span>
+        <div><strong id="statPublished">--</strong><span>正式发表记录</span></div>
+        <small>JOURNAL / CONFERENCE</small>
+      </article>
+      <article class="stat-item">
+        <span class="stat-index">02</span>
+        <div><strong id="statPreprint">--</strong><span>预印本</span></div>
+        <small>EARLY SIGNAL</small>
+      </article>
+      <article class="stat-item">
+        <span class="stat-index">03</span>
+        <div><strong id="statOpen">--</strong><span>开放获取</span></div>
+        <small>OPEN ACCESS</small>
+      </article>
+      <article class="stat-item">
+        <span class="stat-index">04</span>
+        <div><strong id="statTopics">--</strong><span>细分主题</span></div>
+        <small>TOPIC TAGS</small>
+      </article>
+    </section>
+
+    <section class="focus section-shell" id="focus">
+      <div class="section-heading">
+        <div>
+          <p class="section-kicker">CURATED SIGNALS</p>
+          <h2>近期高相关论文</h2>
+        </div>
+        <p class="section-note">按标题匹配、安全证据、发表状态与主题覆盖综合排序。所有导读均为自动生成，结论请回看原文。</p>
+      </div>
+      <div class="featured-grid" id="featuredGrid"></div>
+    </section>
+
+    <section class="library section-shell" id="papers">
+      <div class="section-heading library-heading">
+        <div>
+          <p class="section-kicker">PAPER INDEX</p>
+          <h2>论文雷达库</h2>
+        </div>
+        <div class="library-counter"><strong id="resultCount">--</strong><span>RESULTS</span></div>
+      </div>
+
+      <div class="control-deck">
+        <label class="search-box" for="searchInput">
+          <span class="search-glyph" aria-hidden="true"></span>
+          <input id="searchInput" type="search" autocomplete="off" placeholder="搜索标题、作者、摘要或主题…" />
+          <kbd>⌘ K</kbd>
+        </label>
+        <div class="select-wrap">
+          <label for="sortSelect">排序</label>
+          <select id="sortSelect">
+            <option value="relevance">相关度优先</option>
+            <option value="newest">最新发表</option>
+            <option value="oldest">最早发表</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="filter-row" role="group" aria-label="论文类型筛选">
+        <button class="filter-pill is-active" data-type="all">全部</button>
+        <button class="filter-pill" data-type="published">正式发表</button>
+        <button class="filter-pill" data-type="preprint">预印本</button>
+        <button class="filter-pill" data-type="recent">近 7 天</button>
+      </div>
+      <div class="topic-filter" id="topicFilter" role="group" aria-label="主题筛选"></div>
+
+      <div class="paper-list" id="paperList" aria-live="polite"></div>
+      <div class="empty-state" id="emptyState" hidden>
+        <span aria-hidden="true">⌁</span>
+        <h3>没有匹配的论文</h3>
+        <p>尝试清空搜索，或切换到其他主题。</p>
+        <button class="button button-primary" id="resetFilters" type="button">重置筛选</button>
+      </div>
+      <div class="load-more-wrap">
+        <button class="button button-outline" id="loadMore" type="button">加载更多 <span id="loadMoreCount"></span></button>
+      </div>
+    </section>
+
+    <section class="method section-shell" aria-label="数据方法">
+      <div class="method-intro">
+        <p class="section-kicker">HOW IT WORKS</p>
+        <h2>从公开学术信号到每日简报</h2>
+        <p>系统每天拉取近 90 天论文元数据，以“无人机 + 物理层安全核心证据”进行双重闸门筛选，再按主题、来源与发表状态去重合并。</p>
+      </div>
+      <ol class="method-steps">
+        <li><span>01</span><div><strong>检索</strong><p>OpenAlex 与 arXiv 多查询并行，不依赖单一索引。</p></div></li>
+        <li><span>02</span><div><strong>去重</strong><p>按 DOI、arXiv ID 与规范化标题合并重复记录。</p></div></li>
+        <li><span>03</span><div><strong>校准</strong><p>拒绝只在摘要边缘提及安全的弱相关论文。</p></div></li>
+        <li><span>04</span><div><strong>推送</strong><p>生成网页日报，并可通过企业微信或微信通知服务推送。</p></div></li>
+      </ol>
+    </section>
+  </main>
+
+  <footer class="site-footer section-shell">
+    <div>
+      <a class="brand footer-brand" href="#top">
+        <span class="brand-mark" aria-hidden="true"><span>U</span><i></i><span>P</span></span>
+        <span class="brand-copy"><strong>UAV · PLS Radar</strong><small>DAILY RESEARCH SIGNAL</small></span>
+      </a>
+      <p>自动聚合公开论文元数据，仅用于科研信息发现。论文版权归原作者及出版机构所有。</p>
+    </div>
+    <div class="footer-meta">
+      <span>LAST SYNC</span>
+      <strong id="footerUpdated">--</strong>
+      <a href="#top">回到顶部 ↑</a>
+    </div>
+  </footer>
+
+  <noscript>
+    <div class="noscript">此页面需要启用 JavaScript 才能读取论文数据。</div>
+  </noscript>
+  <script src="./data.js"></script>
+  <script src="./assets/app.js"></script>
+</body>
+</html>

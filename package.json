@@ -1,0 +1,13 @@
+{
+  "name": "uav-pls-radar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Daily physical-layer security and UAV communications paper radar.",
+  "scripts": {
+    "fetch": "node scripts/fetch-papers.mjs",
+    "notify": "node scripts/notify.mjs",
+    "serve": "node scripts/serve.mjs",
+    "validate": "node scripts/validate-data.mjs"
+  }
+}

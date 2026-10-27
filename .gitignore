@@ -1,0 +1,5 @@
+node_modules/
+notification-preview.md
+.env
+.DS_Store
+*.log

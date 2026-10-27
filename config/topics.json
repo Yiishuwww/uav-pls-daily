@@ -1,0 +1,56 @@
+{
+  "siteTitle": "UAV · PLS Radar",
+  "siteSubtitle": "物理层安全 × 无人机通信论文雷达",
+  "timezone": "Asia/Shanghai",
+  "lookbackDays": 90,
+  "archiveDays": 400,
+  "dailyLookbackDays": 7,
+  "maxResultsPerQuery": 100,
+  "minRelevanceScore": 7,
+  "maxPapers": 240,
+  "contactEmail": "uav-pls-radar@example.com",
+  "arxiv": {
+    "categories": [
+      "eess.SP",
+      "cs.IT",
+      "cs.CR"
+    ],
+    "queries": [
+      "all:\"physical layer security\" AND (all:UAV OR all:drone OR all:\"unmanned aerial vehicle\")",
+      "(all:\"secrecy rate\" OR all:\"covert communication\") AND (all:UAV OR all:drone OR all:\"unmanned aerial\")",
+      "(all:\"physical layer security\" OR all:secrecy) AND (all:\"aerial base station\" OR all:\"aerial communication\" OR all:\"low-altitude\")",
+      "(all:UAV OR all:drone OR all:\"unmanned aerial\") AND (all:eavesdropper OR all:wiretap OR all:jamming OR all:covert)"
+    ]
+  },
+  "openalex": {
+    "queries": [
+      "physical layer security unmanned aerial vehicle UAV",
+      "physical layer security for UAV communications",
+      "secrecy rate drone UAV communication",
+      "secure unmanned aerial vehicle communication eavesdropper",
+      "covert communication unmanned aerial vehicle",
+      "UAV covert communication jamming",
+      "UAV physical layer security RIS jamming",
+      "UAV secrecy rate optimization"
+    ]
+  },
+  "sourceWeights": {
+    "OpenAlex": 2,
+    "Crossref": 1.5,
+    "arXiv": 0
+  },
+  "topicTags": [
+    "物理层安全",
+    "无人机通信",
+    "保密速率",
+    "隐蔽通信",
+    "主动干扰",
+    "RIS/智能反射面",
+    "ISAC/通感一体",
+    "NOMA",
+    "毫米波/太赫兹",
+    "资源优化",
+    "轨迹/功率优化",
+    "窃听/安全中断"
+  ]
+}
