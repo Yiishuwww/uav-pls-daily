@@ -3,7 +3,7 @@
   <title>UAV · PLS Radar</title>
   <subtitle>物理层安全 × 无人机通信论文雷达</subtitle>
   <link href="./feed.xml" rel="self"/>
-  <updated>2026-10-27T11:57:36.251Z</updated>
+  <updated>2026-10-27T23:02:27.372Z</updated>
   <id>urn:uav-pls-radar:feed</id>
   <entry>
     <title>Enhancing physical layer security for UAV-assisted satellite-vehicle communication network</title>
@@ -84,6 +84,14 @@
     <updated>2026-10-01T00:00:00+08:00</updated>
     <summary>自动导读：围绕《Eavesdropping Mitigation in RSMA Networks using Latent Space Modification in cGAN Models》所述无人机通信场景，重点关注保密速率、主动干扰、窃听/安全中断展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
     <author>Abhijeet Upadhya, Parul Arora</author>
+  </entry>
+  <entry>
+    <title>High Security Chaotic Encryption-based Visible Light Transmission System for UAVs</title>
+    <id>https://doaj.org/article/20349938c3ff4a0c92d3d31f4dc06418</id>
+    <link href="https://doaj.org/article/20349938c3ff4a0c92d3d31f4dc06418"/>
+    <updated>2026-10-01T00:00:00+08:00</updated>
+    <summary>自动导读：围绕《High Security Chaotic Encryption-based Visible Light Transmission System for UAVs》所述无人机通信场景展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
+    <author>Junyu Xia, Jieming He, FENG Hao, 代国知, Jiawei Huang, ZHANG Lin</author>
   </entry>
   <entry>
     <title>ARCTAN: Arbitrary RF Containment Using Tactical Aerial Networks and Differentiable Ray Tracing</title>
@@ -286,6 +294,14 @@
     <author>Xinlong Wang, Yunxia Yang, Yiqun Zhang, Xianglei Yan, Dongxu Yang, Mingfeng Xu</author>
   </entry>
   <entry>
+    <title>Secure Coverage Enhancement in Aerial Reconfigurable Intelligent Surface-Assisted High-Speed Train Communication Systems</title>
+    <id>https://arxiv.org/abs/2608.12046v2</id>
+    <link href="https://arxiv.org/abs/2608.12046v2"/>
+    <updated>2026-08-12T00:00:00+08:00</updated>
+    <summary>自动导读：围绕《Secure Coverage Enhancement in Aerial Reconfigurable Intelligent Surface-Assisted High-Speed Train Communicat...》所述无人机通信场景，重点关注保密速率、RIS/智能反射面、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
+    <author>Changzhu Liu, Ruisi He, Bo Ai, Yong Niu, Zhu Han, Gongpu Wang, Haoxiang Zhang, Jiahui Han, Zhangdui Zhong</author>
+  </entry>
+  <entry>
     <title>DRL-Based Secure Transmission for Rotatable Antenna-Enabled Low-Altitude ISAC Systems</title>
     <id>https://arxiv.org/abs/2608.07170</id>
     <link href="https://arxiv.org/abs/2608.07170"/>
@@ -300,5 +316,13 @@
     <updated>2026-08-05T00:00:00+08:00</updated>
     <summary>自动导读：围绕《Robust Beamforming for Physical-Layer Security in RIS-Assisted UAV Networks》所述无人机通信场景，重点关注保密速率、RIS/智能反射面、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
     <author>A-Rin Jo</author>
+  </entry>
+  <entry>
+    <title>On Secure EKF-enhanced UAV-ISAC Systems</title>
+    <id>https://arxiv.org/abs/2606.03690v1</id>
+    <link href="https://arxiv.org/abs/2606.03690v1"/>
+    <updated>2026-06-02T00:00:00+08:00</updated>
+    <summary>自动导读：围绕《On Secure EKF-enhanced UAV-ISAC Systems》所述无人机通信场景，重点关注保密速率、主动干扰、ISAC/通感一体展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
+    <author>Hongjiang Lei, Heng Jin, Ki-Hong Park, Jia Ye, Liang Yang, Gaofeng Pan, Yun Li</author>
   </entry>
 </feed>
