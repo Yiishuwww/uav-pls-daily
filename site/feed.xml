@@ -3,8 +3,16 @@
   <title>UAV · PLS Radar</title>
   <subtitle>物理层安全 × 无人机通信论文雷达</subtitle>
   <link href="./feed.xml" rel="self"/>
-  <updated>2026-10-29T23:09:18.705Z</updated>
+  <updated>2026-10-30T23:05:07.826Z</updated>
   <id>urn:uav-pls-radar:feed</id>
+  <entry>
+    <title>Efficient Joint Trajectory Optimization and Resource Allocation for Secure UAV Networks: A Deep Reinforcement Learning Approach</title>
+    <id>https://arxiv.org/abs/2610.37897v1</id>
+    <link href="https://arxiv.org/abs/2610.37897v1"/>
+    <updated>2026-10-27T00:00:00+08:00</updated>
+    <summary>自动导读：围绕《Efficient Joint Trajectory Optimization and Resource Allocation for Secure UAV Networks: A Deep Reinforcement...》所述无人机通信场景，重点关注保密速率、主动干扰、资源优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
+    <author>Abdulmalik Alwarafy, Mohamed Hayajneh, Mustafa Al Juboori, Abdulaziz Almarzooqi, Tahnoon Almazrouei, Robera Abera, Kaleab Nega</author>
+  </entry>
   <entry>
     <title>Enhancing physical layer security for UAV-assisted satellite-vehicle communication network</title>
     <id>https://doi.org/10.1007/s10878-026-01491-8</id>
@@ -310,19 +318,11 @@
     <author>Chuan Liu, Hongyi Bian, Wei Gao, Qi Zhang, Yu Yao, Liang Yang, Feng Shu</author>
   </entry>
   <entry>
-    <title>Robust Beamforming for Physical-Layer Security in RIS-Assisted UAV Networks</title>
-    <id>http://irjas.com/index.php/sciencejournal/article/view/106</id>
-    <link href="http://irjas.com/index.php/sciencejournal/article/view/106"/>
-    <updated>2026-08-05T00:00:00+08:00</updated>
-    <summary>自动导读：围绕《Robust Beamforming for Physical-Layer Security in RIS-Assisted UAV Networks》所述无人机通信场景，重点关注保密速率、RIS/智能反射面、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
-    <author>A-Rin Jo</author>
-  </entry>
-  <entry>
-    <title>On Secure EKF-enhanced UAV-ISAC Systems</title>
-    <id>https://arxiv.org/abs/2606.03690v1</id>
-    <link href="https://arxiv.org/abs/2606.03690v1"/>
-    <updated>2026-06-02T00:00:00+08:00</updated>
-    <summary>自动导读：围绕《On Secure EKF-enhanced UAV-ISAC Systems》所述无人机通信场景，重点关注保密速率、主动干扰、ISAC/通感一体展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
-    <author>Hongjiang Lei, Heng Jin, Ki-Hong Park, Jia Ye, Liang Yang, Gaofeng Pan, Yun Li</author>
+    <title>Flying Reconfigurable Intelligent Surfaces for 6G: Enhancing Physical Layer Security in Low-Altitude Wireless Networks</title>
+    <id>https://doi.org/10.1109/mcom.001.2600132</id>
+    <link href="https://doi.org/10.1109/mcom.001.2600132"/>
+    <updated>2026-08-06T00:00:00+08:00</updated>
+    <summary>自动导读：围绕《Flying Reconfigurable Intelligent Surfaces for 6G: Enhancing Physical Layer Security in Low-Altitude Wireless...》所述无人机通信场景，重点关注RIS/智能反射面、ISAC/通感一体展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
+    <author>Shanza Shakoor, Quang Nhat Le, Minh-Hien T. Nguyen, Vishal Sharma, Mehmet Özdem, Berk Canberk, Trung Q. Duong</author>
   </entry>
 </feed>
