@@ -3,7 +3,7 @@
   <title>UAV · PLS Radar</title>
   <subtitle>物理层安全 × 无人机通信论文雷达</subtitle>
   <link href="./feed.xml" rel="self"/>
-  <updated>2026-11-02T23:11:05.218Z</updated>
+  <updated>2026-11-03T23:14:36.738Z</updated>
   <id>urn:uav-pls-radar:feed</id>
   <entry>
     <title>Efficient Joint Trajectory Optimization and Resource Allocation for Secure UAV Networks: A Deep Reinforcement Learning Approach</title>
@@ -20,6 +20,14 @@
     <updated>2026-10-25T00:00:00+08:00</updated>
     <summary>自动导读：围绕《Enhancing physical layer security for UAV-assisted satellite-vehicle communication network》所述无人机通信场景展开。当前来源未提供摘要，建议通过原文进一步核验研究问题与结论。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
     <author>Shanchao Zheng, Deying Li, Yongcai Wang, Wenping Chen</author>
+  </entry>
+  <entry>
+    <title>Energy-Efficient UAV Covert Communications via Metaheuristic Optimization</title>
+    <id>https://arxiv.org/abs/2611.00090v1</id>
+    <link href="https://arxiv.org/abs/2611.00090v1"/>
+    <updated>2026-10-22T00:00:00+08:00</updated>
+    <summary>自动导读：围绕《Energy-Efficient UAV Covert Communications via Metaheuristic Optimization》所述无人机通信场景，重点关注隐蔽通信、资源优化、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
+    <author>Nguyen Minh Quan, Tran Thanh Thu, Nguyen The Ngoc Khue, Ninh Thi Thanh Tam, Trinh Van Chien</author>
   </entry>
   <entry>
     <title>Generative Diffusion Models for Secure UAV-ISAC with Real-Time Target Tracking</title>
@@ -198,6 +206,38 @@
     <author>Chengye Hong, Botang Shi, Rongkun Zhu, Yuhan Wang, Chenyiming Jiang, Lei Xie</author>
   </entry>
   <entry>
+    <title>Analysis of Covert Rate in UAV-IRS Assisted Cellular Networks with Joint Power, Trajectory, and Phase Shift</title>
+    <id>https://doi.org/10.1109/iccis71225.2026.11745832</id>
+    <link href="https://doi.org/10.1109/iccis71225.2026.11745832"/>
+    <updated>2026-09-01T00:00:00+08:00</updated>
+    <summary>自动导读：围绕《Analysis of Covert Rate in UAV-IRS Assisted Cellular Networks with Joint Power, Trajectory, and Phase Shift》所述无人机通信场景，重点关注隐蔽通信、RIS/智能反射面、资源优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
+    <author>Jianwen Yang, Yangshui Gao, Yuyang Zhao, Zhenting Chen</author>
+  </entry>
+  <entry>
+    <title>Robust Secure UAV-RIS-Aided ISAC Against Multiple Intelligent Eavesdroppers</title>
+    <id>https://doi.org/10.1109/pimrc69400.2026.11711588</id>
+    <link href="https://doi.org/10.1109/pimrc69400.2026.11711588"/>
+    <updated>2026-09-01T00:00:00+08:00</updated>
+    <summary>自动导读：围绕《Robust Secure UAV-RIS-Aided ISAC Against Multiple Intelligent Eavesdroppers》所述无人机通信场景，重点关注主动干扰、RIS/智能反射面、ISAC/通感一体展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
+    <author>Jun Cui, Xueyan Cao, Shubin Wang</author>
+  </entry>
+  <entry>
+    <title>UAV-Enabled Covert Communication Against Cooperative Detection Under Nakagami-m Channel</title>
+    <id>https://doi.org/10.1109/pimrc69400.2026.11711983</id>
+    <link href="https://doi.org/10.1109/pimrc69400.2026.11711983"/>
+    <updated>2026-09-01T00:00:00+08:00</updated>
+    <summary>自动导读：围绕《UAV-Enabled Covert Communication Against Cooperative Detection Under Nakagami-m Channel》所述无人机通信场景，重点关注隐蔽通信、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
+    <author>Peng Wu, Xiaopeng Yuan, Yulin Hu, Anke Schmeink</author>
+  </entry>
+  <entry>
+    <title>Bursty Covert Communication in Finite-Buffer UAV Relay Networks for Autonomous Vehicular Systems</title>
+    <id>https://doi.org/10.1109/pimrc69400.2026.11711797</id>
+    <link href="https://doi.org/10.1109/pimrc69400.2026.11711797"/>
+    <updated>2026-09-01T00:00:00+08:00</updated>
+    <summary>自动导读：围绕《Bursty Covert Communication in Finite-Buffer UAV Relay Networks for Autonomous Vehicular Systems》所述无人机通信场景，重点关注隐蔽通信、窃听/安全中断展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
+    <author>Viet-Dung Bui, Hung Tran, Thi My Chinh Chu, Hans‐Jürgen Zepernick, Van Nhan Vo, Tu Dac Ho</author>
+  </entry>
+  <entry>
     <title>Joint 3D Trajectory and Tilt Angle Optimization for UAV-Assisted Secure Communications</title>
     <id>https://doi.org/10.1109/pimrc69400.2026.11711730</id>
     <link href="https://doi.org/10.1109/pimrc69400.2026.11711730"/>
@@ -214,12 +254,12 @@
     <author>Jiaen Zhou, Yafei Zhao, Tingnan Bao, Xian Zhang, Shijie Zhang, Mugen Peng</author>
   </entry>
   <entry>
-    <title>UAV-Enabled Covert Communication Against Cooperative Detection Under Nakagami-m Channel</title>
-    <id>https://doi.org/10.1109/pimrc69400.2026.11711983</id>
-    <link href="https://doi.org/10.1109/pimrc69400.2026.11711983"/>
+    <title>Secrecy Energy Efficiency Maximization for RIS-Assisted UAV Communications via Joint 3D Trajectory and Passive Beamforming Design</title>
+    <id>https://doi.org/10.1109/pimrc69400.2026.11711659</id>
+    <link href="https://doi.org/10.1109/pimrc69400.2026.11711659"/>
     <updated>2026-09-01T00:00:00+08:00</updated>
-    <summary>自动导读：围绕《UAV-Enabled Covert Communication Against Cooperative Detection Under Nakagami-m Channel》所述无人机通信场景，重点关注隐蔽通信展开。当前来源未提供摘要，建议通过原文进一步核验研究问题与结论。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
-    <author>Peng Wu, Xiaopeng Yuan, Yulin Hu, Anke Schmeink</author>
+    <summary>自动导读：围绕《Secrecy Energy Efficiency Maximization for RIS-Assisted UAV Communications via Joint 3D Trajectory and Passiv...》所述无人机通信场景，重点关注RIS/智能反射面、资源优化、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
+    <author>Yuan Ren, Xiangen Yu, Xuewei Zhang, Fan Jiang</author>
   </entry>
   <entry>
     <title>RIS-assisted ISAC against heterogeneous malicious entities in low-altitude environments</title>
@@ -284,45 +324,5 @@
     <updated>2026-08-25T00:00:00+08:00</updated>
     <summary>自动导读：围绕《Resource Allocation for Secure Dual-UAV-Assisted ISAC System》所述无人机通信场景，重点关注保密速率、主动干扰、ISAC/通感一体展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
     <author>Hongjiang Lei, Jianshuo Geng, Ki‐Hong Park, Jia Ye, Yang, Liang, Xiaqing Miao, PAN Gaofeng</author>
-  </entry>
-  <entry>
-    <title>Joint UAV Placement and Active IRS Gain Optimization for Covert Communications</title>
-    <id>https://doi.org/10.3390/s26165244</id>
-    <link href="https://doi.org/10.3390/s26165244"/>
-    <updated>2026-08-19T00:00:00+08:00</updated>
-    <summary>自动导读：围绕《Joint UAV Placement and Active IRS Gain Optimization for Covert Communications》所述无人机通信场景，重点关注隐蔽通信、主动干扰、RIS/智能反射面展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
-    <author>Guojie Qu, Mei Shen, Kai Liu, Bin Xu, Yuwen Qian</author>
-  </entry>
-  <entry>
-    <title>Gbps-rate sub-noise free-space optical communication using optical frequency comb diversity</title>
-    <id>https://doi.org/10.1364/optcon.603969</id>
-    <link href="https://doi.org/10.1364/optcon.603969"/>
-    <updated>2026-08-12T00:00:00+08:00</updated>
-    <summary>自动导读：围绕《Gbps-rate sub-noise free-space optical communication using optical frequency comb diversity》所述无人机通信场景，重点关注隐蔽通信展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
-    <author>Xinlong Wang, Yunxia Yang, Yiqun Zhang, Xianglei Yan, Dongxu Yang, Mingfeng Xu</author>
-  </entry>
-  <entry>
-    <title>Secure Coverage Enhancement in Aerial Reconfigurable Intelligent Surface-Assisted High-Speed Train Communication Systems</title>
-    <id>https://arxiv.org/abs/2608.12046v2</id>
-    <link href="https://arxiv.org/abs/2608.12046v2"/>
-    <updated>2026-08-12T00:00:00+08:00</updated>
-    <summary>自动导读：围绕《Secure Coverage Enhancement in Aerial Reconfigurable Intelligent Surface-Assisted High-Speed Train Communicat...》所述无人机通信场景，重点关注保密速率、RIS/智能反射面、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
-    <author>Changzhu Liu, Ruisi He, Bo Ai, Yong Niu, Zhu Han, Gongpu Wang, Haoxiang Zhang, Jiahui Han, Zhangdui Zhong</author>
-  </entry>
-  <entry>
-    <title>DRL-Based Secure Transmission for Rotatable Antenna-Enabled Low-Altitude ISAC Systems</title>
-    <id>https://arxiv.org/abs/2608.07170</id>
-    <link href="https://arxiv.org/abs/2608.07170"/>
-    <updated>2026-08-07T00:00:00+08:00</updated>
-    <summary>自动导读：围绕《DRL-Based Secure Transmission for Rotatable Antenna-Enabled Low-Altitude ISAC Systems》所述无人机通信场景，重点关注保密速率、ISAC/通感一体、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
-    <author>Chuan Liu, Hongyi Bian, Wei Gao, Qi Zhang, Yu Yao, Liang Yang, Feng Shu</author>
-  </entry>
-  <entry>
-    <title>Flying Reconfigurable Intelligent Surfaces for 6G: Enhancing Physical Layer Security in Low-Altitude Wireless Networks</title>
-    <id>https://doi.org/10.1109/mcom.001.2600132</id>
-    <link href="https://doi.org/10.1109/mcom.001.2600132"/>
-    <updated>2026-08-06T00:00:00+08:00</updated>
-    <summary>自动导读：围绕《Flying Reconfigurable Intelligent Surfaces for 6G: Enhancing Physical Layer Security in Low-Altitude Wireless...》所述无人机通信场景，重点关注RIS/智能反射面、ISAC/通感一体展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
-    <author>Shanza Shakoor, Quang Nhat Le, Minh-Hien T. Nguyen, Vishal Sharma, Mehmet Özdem, Berk Canberk, Trung Q. Duong</author>
   </entry>
 </feed>
