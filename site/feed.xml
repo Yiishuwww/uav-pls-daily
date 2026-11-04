@@ -3,8 +3,16 @@
   <title>UAV · PLS Radar</title>
   <subtitle>物理层安全 × 无人机通信论文雷达</subtitle>
   <link href="./feed.xml" rel="self"/>
-  <updated>2026-11-03T23:14:36.738Z</updated>
+  <updated>2026-11-04T23:14:33.954Z</updated>
   <id>urn:uav-pls-radar:feed</id>
+  <entry>
+    <title>Joint Communication and Computation Optimization for Secure UAV Relay-MEC With Friendly Jamming</title>
+    <id>https://doi.org/10.1016/j.phycom.2026.103448</id>
+    <link href="https://doi.org/10.1016/j.phycom.2026.103448"/>
+    <updated>2026-11-01T00:00:00+08:00</updated>
+    <summary>自动导读：围绕《Joint Communication and Computation Optimization for Secure UAV Relay-MEC With Friendly Jamming》所述无人机通信场景，重点关注主动干扰、轨迹/功率优化展开。当前来源未提供摘要，建议通过原文进一步核验研究问题与结论。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
+    <author>Phuong T. Tran, Bui Anh Duc, Tran Manh Hoang, Xuan Nam Tran, Thanh Trung Nguyen</author>
+  </entry>
   <entry>
     <title>Efficient Joint Trajectory Optimization and Resource Allocation for Secure UAV Networks: A Deep Reinforcement Learning Approach</title>
     <id>https://arxiv.org/abs/2610.37897v1</id>
@@ -316,13 +324,5 @@
     <updated>2026-08-27T00:00:00+08:00</updated>
     <summary>自动导读：围绕《A Hybrid Explainable AI Framework for Multi-Class Anomaly and Intrusion Detection in UAV and Industrial IoT N...》所述无人机通信场景，重点关注NOMA展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
     <author>Dr. Haruto Nakamura, Dr. Aiko Tanaka</author>
-  </entry>
-  <entry>
-    <title>Resource Allocation for Secure Dual-UAV-Assisted ISAC System</title>
-    <id>https://arxiv.org/abs/2608.24398</id>
-    <link href="https://arxiv.org/abs/2608.24398"/>
-    <updated>2026-08-25T00:00:00+08:00</updated>
-    <summary>自动导读：围绕《Resource Allocation for Secure Dual-UAV-Assisted ISAC System》所述无人机通信场景，重点关注保密速率、主动干扰、ISAC/通感一体展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
-    <author>Hongjiang Lei, Jianshuo Geng, Ki‐Hong Park, Jia Ye, Yang, Liang, Xiaqing Miao, PAN Gaofeng</author>
   </entry>
 </feed>
