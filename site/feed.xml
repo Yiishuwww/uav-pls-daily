@@ -3,8 +3,24 @@
   <title>UAV · PLS Radar</title>
   <subtitle>物理层安全 × 无人机通信论文雷达</subtitle>
   <link href="./feed.xml" rel="self"/>
-  <updated>2026-11-06T23:11:23.425Z</updated>
+  <updated>2026-11-07T23:05:04.896Z</updated>
   <id>urn:uav-pls-radar:feed</id>
+  <entry>
+    <title>An unmanned aerial vehicle-carried RIS covert communication mechanism</title>
+    <id>https://doi.org/10.1016/j.phycom.2026.103462</id>
+    <link href="https://doi.org/10.1016/j.phycom.2026.103462"/>
+    <updated>2026-11-01T00:00:00+08:00</updated>
+    <summary>自动导读：围绕《An unmanned aerial vehicle-carried RIS covert communication mechanism》所述无人机通信场景，重点关注隐蔽通信、RIS/智能反射面展开。当前来源未提供摘要，建议通过原文进一步核验研究问题与结论。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
+    <author>Haotian Li, Shuang Zhang, Wen Tian</author>
+  </entry>
+  <entry>
+    <title>A robust constrained reinforcement learning framework for UAV-assisted secure relay communications</title>
+    <id>https://doi.org/10.1007/s44443-026-01488-7</id>
+    <link href="https://doi.org/10.1007/s44443-026-01488-7"/>
+    <updated>2026-11-01T00:00:00+08:00</updated>
+    <summary>自动导读：围绕《A robust constrained reinforcement learning framework for UAV-assisted secure relay communications》所述无人机通信场景，重点关注保密速率、轨迹/功率优化、窃听/安全中断展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
+    <author>Zhenhang Wei, Gongchao Su, Mingjun Dai, Xiaohui Lin</author>
+  </entry>
   <entry>
     <title>Joint Communication and Computation Optimization for Secure UAV Relay-MEC With Friendly Jamming</title>
     <id>https://doi.org/10.1016/j.phycom.2026.103448</id>
@@ -190,6 +206,14 @@
     <author>Bin Qi, Jianxiong Pan, Linan Wang, Yanxue Zhang, Ruilang Li, Neng Ye</author>
   </entry>
   <entry>
+    <title>Robust Full-Space Security for UAV-Mounted Multifunctional RIS-Aided Networks With Uncertain Eavesdropper Location</title>
+    <id>https://doi.org/10.1109/jiot.2026.3732498</id>
+    <link href="https://doi.org/10.1109/jiot.2026.3732498"/>
+    <updated>2026-09-10T00:00:00+08:00</updated>
+    <summary>自动导读：围绕《Robust Full-Space Security for UAV-Mounted Multifunctional RIS-Aided Networks With Uncertain Eavesdropper Loc...》所述无人机通信场景，重点关注主动干扰、RIS/智能反射面、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
+    <author>Zecheng Wang, Yuyang Peng, Mohammad Meraj Mirza, Fawaz AL-Hazemi, Juho Lee</author>
+  </entry>
+  <entry>
     <title>Secrecy outage and capacity analysis for UAV-assisted IRS-aided G2G system</title>
     <id>https://doi.org/10.1038/s41598-026-69991-5</id>
     <link href="https://doi.org/10.1038/s41598-026-69991-5"/>
@@ -300,29 +324,5 @@
     <updated>2026-08-31T00:00:00+08:00</updated>
     <summary>自动导读：围绕《Federated learning assisted power control for covert and secure UAV-enabled IoT communications》所述无人机通信场景，重点关注保密速率、隐蔽通信、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
     <author>G. Kumar, G. Kumar, Dilip Kumar Jang Bahadur Saini, Vasu Namala, N. Gireesh, Kondru Ayyappa Swamy, G. Kumar, G. Kumar</author>
-  </entry>
-  <entry>
-    <title>Active IRS-Enhanced UAV Relaying for Secure Hybrid RF/FSO Communications: Joint Phase Shift, Beamforming, and Power Optimization</title>
-    <id>https://doi.org/10.18280/jesa.590808</id>
-    <link href="https://doi.org/10.18280/jesa.590808"/>
-    <updated>2026-08-31T00:00:00+08:00</updated>
-    <summary>自动导读：围绕《Active IRS-Enhanced UAV Relaying for Secure Hybrid RF/FSO Communications: Joint Phase Shift, Beamforming, and...》所述无人机通信场景，重点关注保密速率、RIS/智能反射面、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
-    <author>Awfa Aladwani, Mohammed Obaidi, Mahmood Alfathe, Zaid Husham Al-Sawaff</author>
-  </entry>
-  <entry>
-    <title>Toward Secure Communications for a UAV Swarm with Movable Antennas in SAGIN: CKM-Enabled Multi-Agent Reinforcement Learning Framework</title>
-    <id>https://arxiv.org/abs/2608.27973</id>
-    <link href="https://arxiv.org/abs/2608.27973"/>
-    <updated>2026-08-28T00:00:00+08:00</updated>
-    <summary>自动导读：围绕《Toward Secure Communications for a UAV Swarm with Movable Antennas in SAGIN: CKM-Enabled Multi-Agent Reinforc...》所述无人机通信场景，重点关注资源优化、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
-    <author>Jiayang Wan, Yafei Wang, Jiawei Zhuang, Wenjin Wang, Tony Q. S. Quek</author>
-  </entry>
-  <entry>
-    <title>A Hybrid Explainable AI Framework for Multi-Class Anomaly and Intrusion Detection in UAV and Industrial IoT Networks</title>
-    <id>https://irjernet.com/index.php/feaiml/article/view/515/466</id>
-    <link href="https://irjernet.com/index.php/feaiml/article/view/515/466"/>
-    <updated>2026-08-27T00:00:00+08:00</updated>
-    <summary>自动导读：围绕《A Hybrid Explainable AI Framework for Multi-Class Anomaly and Intrusion Detection in UAV and Industrial IoT N...》所述无人机通信场景，重点关注NOMA展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
-    <author>Dr. Haruto Nakamura, Dr. Aiko Tanaka</author>
   </entry>
 </feed>
