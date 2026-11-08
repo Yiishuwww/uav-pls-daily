@@ -3,7 +3,7 @@
   <title>UAV · PLS Radar</title>
   <subtitle>物理层安全 × 无人机通信论文雷达</subtitle>
   <link href="./feed.xml" rel="self"/>
-  <updated>2026-11-07T23:05:04.896Z</updated>
+  <updated>2026-11-08T23:05:43.872Z</updated>
   <id>urn:uav-pls-radar:feed</id>
   <entry>
     <title>An unmanned aerial vehicle-carried RIS covert communication mechanism</title>
@@ -12,6 +12,14 @@
     <updated>2026-11-01T00:00:00+08:00</updated>
     <summary>自动导读：围绕《An unmanned aerial vehicle-carried RIS covert communication mechanism》所述无人机通信场景，重点关注隐蔽通信、RIS/智能反射面展开。当前来源未提供摘要，建议通过原文进一步核验研究问题与结论。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
     <author>Haotian Li, Shuang Zhang, Wen Tian</author>
+  </entry>
+  <entry>
+    <title>Three-Timescale Covert Communications for Fluid Antenna Empowered Low-Altitude ISAC Systems</title>
+    <id>https://doi.org/10.1016/j.phycom.2026.103463</id>
+    <link href="https://doi.org/10.1016/j.phycom.2026.103463"/>
+    <updated>2026-11-01T00:00:00+08:00</updated>
+    <summary>自动导读：围绕《Three-Timescale Covert Communications for Fluid Antenna Empowered Low-Altitude ISAC Systems》所述无人机通信场景，重点关注隐蔽通信、ISAC/通感一体展开。当前来源未提供摘要，建议通过原文进一步核验研究问题与结论。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
+    <author>Yimei Han, Zhiquan Bai, Hongwu Liu, Kyung Sup Kwak</author>
   </entry>
   <entry>
     <title>A robust constrained reinforcement learning framework for UAV-assisted secure relay communications</title>
@@ -316,13 +324,5 @@
     <updated>2026-09-01T00:00:00+08:00</updated>
     <summary>自动导读：围绕《Power Control for UAV-Aided Multiuser Covert IoT Communications Against Colluding Wardens》所述无人机通信场景，重点关注隐蔽通信、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
     <author>Yumei Yang, Honghui Cha, Fei Lin, Ruquan Wang, Wu Wang</author>
-  </entry>
-  <entry>
-    <title>Federated learning assisted power control for covert and secure UAV-enabled IoT communications</title>
-    <id>https://doi.org/10.47974/jios-2358</id>
-    <link href="https://doi.org/10.47974/jios-2358"/>
-    <updated>2026-08-31T00:00:00+08:00</updated>
-    <summary>自动导读：围绕《Federated learning assisted power control for covert and secure UAV-enabled IoT communications》所述无人机通信场景，重点关注保密速率、隐蔽通信、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
-    <author>G. Kumar, G. Kumar, Dilip Kumar Jang Bahadur Saini, Vasu Namala, N. Gireesh, Kondru Ayyappa Swamy, G. Kumar, G. Kumar</author>
   </entry>
 </feed>
