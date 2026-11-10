@@ -3,8 +3,16 @@
   <title>UAV · PLS Radar</title>
   <subtitle>物理层安全 × 无人机通信论文雷达</subtitle>
   <link href="./feed.xml" rel="self"/>
-  <updated>2026-11-09T23:13:31.945Z</updated>
+  <updated>2026-11-10T23:10:24.248Z</updated>
   <id>urn:uav-pls-radar:feed</id>
+  <entry>
+    <title>Minimizing Secure Age of Information in UAV ‐Assisted Short‐Packet Covert Communication</title>
+    <id>https://doi.org/10.1002/itl2.70371</id>
+    <link href="https://doi.org/10.1002/itl2.70371"/>
+    <updated>2026-11-01T00:00:00+08:00</updated>
+    <summary>自动导读：围绕《Minimizing Secure Age of Information in UAV ‐Assisted Short‐Packet Covert Communication》所述无人机通信场景，重点关注保密速率、隐蔽通信、资源优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
+    <author>Ting Zhang, Mangang Xie, Jing Wei, Jie Xu, Hui Sun</author>
+  </entry>
   <entry>
     <title>An unmanned aerial vehicle-carried RIS covert communication mechanism</title>
     <id>https://doi.org/10.1016/j.phycom.2026.103462</id>
@@ -316,13 +324,5 @@
     <updated>2026-09-01T00:00:00+08:00</updated>
     <summary>自动导读：围绕《Utility Maximization Integrating Secrecy, Energy Consumption, and Latency for UAV-Assisted MEC Systems via Du...》所述无人机通信场景，重点关注保密速率、轨迹/功率优化、窃听/安全中断展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
     <author>Yishan Zang, Ying Ming Su, Jing Zhang, Zhutao Dai</author>
-  </entry>
-  <entry>
-    <title>Power Control for UAV-Aided Multiuser Covert IoT Communications Against Colluding Wardens</title>
-    <id>https://doi.org/10.33969/j-nana.2026.060305</id>
-    <link href="https://doi.org/10.33969/j-nana.2026.060305"/>
-    <updated>2026-09-01T00:00:00+08:00</updated>
-    <summary>自动导读：围绕《Power Control for UAV-Aided Multiuser Covert IoT Communications Against Colluding Wardens》所述无人机通信场景，重点关注隐蔽通信、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
-    <author>Yumei Yang, Honghui Cha, Fei Lin, Ruquan Wang, Wu Wang</author>
   </entry>
 </feed>
