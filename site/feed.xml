@@ -3,8 +3,16 @@
   <title>UAV · PLS Radar</title>
   <subtitle>物理层安全 × 无人机通信论文雷达</subtitle>
   <link href="./feed.xml" rel="self"/>
-  <updated>2026-11-11T23:20:39.060Z</updated>
+  <updated>2026-11-12T23:14:01.250Z</updated>
   <id>urn:uav-pls-radar:feed</id>
+  <entry>
+    <title>Secrecy Capacity Maximization in UAV-Assisted RSMA Systems with Mobile Users Using Multi-agent Deep Reinforcement Learning</title>
+    <id>https://doi.org/10.1007/978-3-032-44094-5_10</id>
+    <link href="https://doi.org/10.1007/978-3-032-44094-5_10"/>
+    <updated>2026-11-11T00:00:00+08:00</updated>
+    <summary>自动导读：围绕《Secrecy Capacity Maximization in UAV-Assisted RSMA Systems with Mobile Users Using Multi-agent Deep Reinforce...》所述无人机通信场景，重点关注保密速率展开。当前来源未提供摘要，建议通过原文进一步核验研究问题与结论。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
+    <author>Zhaoyi Feng, Shengpeng Liu, Chunjia Tang, Ali Arshad Nasir, Zhichao Sheng, Xue-Xia Yang</author>
+  </entry>
   <entry>
     <title>Minimizing Secure Age of Information in UAV ‐Assisted Short‐Packet Covert Communication</title>
     <id>https://doi.org/10.1002/itl2.70371</id>
@@ -316,13 +324,5 @@
     <updated>2026-09-01T00:00:00+08:00</updated>
     <summary>自动导读：围绕《RIS-assisted ISAC against heterogeneous malicious entities in low-altitude environments》所述无人机通信场景，重点关注主动干扰、RIS/智能反射面、ISAC/通感一体展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
     <author>Meng GU, Yaxi Liu, Boxin He, Peng WANG, Danyang CHEN, Wei Huangfu</author>
-  </entry>
-  <entry>
-    <title>Utility Maximization Integrating Secrecy, Energy Consumption, and Latency for UAV-Assisted MEC Systems via Dual-Replay TD3</title>
-    <id>https://doi.org/10.3390/electronics15173938</id>
-    <link href="https://doi.org/10.3390/electronics15173938"/>
-    <updated>2026-09-01T00:00:00+08:00</updated>
-    <summary>自动导读：围绕《Utility Maximization Integrating Secrecy, Energy Consumption, and Latency for UAV-Assisted MEC Systems via Du...》所述无人机通信场景，重点关注保密速率、轨迹/功率优化、窃听/安全中断展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
-    <author>Yishan Zang, Ying Ming Su, Jing Zhang, Zhutao Dai</author>
   </entry>
 </feed>
