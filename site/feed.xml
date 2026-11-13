@@ -3,8 +3,24 @@
   <title>UAV · PLS Radar</title>
   <subtitle>物理层安全 × 无人机通信论文雷达</subtitle>
   <link href="./feed.xml" rel="self"/>
-  <updated>2026-11-12T23:14:01.250Z</updated>
+  <updated>2026-11-13T23:12:11.694Z</updated>
   <id>urn:uav-pls-radar:feed</id>
+  <entry>
+    <title>Physical layer covert communication for UAV-aided transportation systems via rate-splitting multiple access over Nakagami-m fading</title>
+    <id>https://doi.org/10.1371/journal.pone.0361873</id>
+    <link href="https://doi.org/10.1371/journal.pone.0361873"/>
+    <updated>2026-11-12T00:00:00+08:00</updated>
+    <summary>自动导读：围绕《Physical layer covert communication for UAV-aided transportation systems via rate-splitting multiple access o...》所述无人机通信场景，重点关注隐蔽通信、主动干扰、资源优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
+    <author>Nghia Hoang Trong, Anh Le-Thi, Trung-Anh Do, Hoa Tien Nguyen, Sang Quang Nguyen</author>
+  </entry>
+  <entry>
+    <title>A Comprehensive Survey of Low-Complexity High-Security Techniques for UAV Communications</title>
+    <id>https://doi.org/10.14445/23488549/ijece-v13i10p115</id>
+    <link href="https://doi.org/10.14445/23488549/ijece-v13i10p115"/>
+    <updated>2026-11-12T00:00:00+08:00</updated>
+    <summary>自动导读：围绕《A Comprehensive Survey of Low-Complexity High-Security Techniques for UAV Communications》所述无人机通信场景，重点关注保密速率、主动干扰、资源优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
+    <author>Jolly Ramesh Nikhade, Shrikant V. Sonekar</author>
+  </entry>
   <entry>
     <title>Secrecy Capacity Maximization in UAV-Assisted RSMA Systems with Mobile Users Using Multi-agent Deep Reinforcement Learning</title>
     <id>https://doi.org/10.1007/978-3-032-44094-5_10</id>
@@ -12,6 +28,14 @@
     <updated>2026-11-11T00:00:00+08:00</updated>
     <summary>自动导读：围绕《Secrecy Capacity Maximization in UAV-Assisted RSMA Systems with Mobile Users Using Multi-agent Deep Reinforce...》所述无人机通信场景，重点关注保密速率展开。当前来源未提供摘要，建议通过原文进一步核验研究问题与结论。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
     <author>Zhaoyi Feng, Shengpeng Liu, Chunjia Tang, Ali Arshad Nasir, Zhichao Sheng, Xue-Xia Yang</author>
+  </entry>
+  <entry>
+    <title>Energy- and Latency-Efficient Offloading for Secure Cooperative UAV-NOMA-Enabled Mobile Edge Computing Networks</title>
+    <id>https://doi.org/10.21203/rs.3.rs-11176890/v1</id>
+    <link href="https://doi.org/10.21203/rs.3.rs-11176890/v1"/>
+    <updated>2026-11-11T00:00:00+08:00</updated>
+    <summary>自动导读：围绕《Energy- and Latency-Efficient Offloading for Secure Cooperative UAV-NOMA-Enabled Mobile Edge Computing Networks》所述无人机通信场景，重点关注保密速率、主动干扰、NOMA展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
+    <author>Kaiwei Jiang</author>
   </entry>
   <entry>
     <title>Minimizing Secure Age of Information in UAV ‐Assisted Short‐Packet Covert Communication</title>
@@ -300,29 +324,5 @@
     <updated>2026-09-01T00:00:00+08:00</updated>
     <summary>自动导读：围绕《Joint 3D Trajectory and Tilt Angle Optimization for UAV-Assisted Secure Communications》所述无人机通信场景，重点关注保密速率、轨迹/功率优化、窃听/安全中断展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
     <author>Xingyu Du, PIng Yang, Yueling Zhao, Yue Xiao, Gang Wu, Sa Xiao, Vladimir K. Poulkov, Zilong Liu</author>
-  </entry>
-  <entry>
-    <title>Cooperative multi-agent DRL-based robust secure transmission in UAV-assisted HetNets</title>
-    <id>https://doi.org/10.1016/j.dcan.2026.09.003</id>
-    <link href="https://doi.org/10.1016/j.dcan.2026.09.003"/>
-    <updated>2026-09-01T00:00:00+08:00</updated>
-    <summary>自动导读：围绕《Cooperative multi-agent DRL-based robust secure transmission in UAV-assisted HetNets》所述无人机通信场景，重点关注轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
-    <author>Jiaen Zhou, Yafei Zhao, Tingnan Bao, Xian Zhang, Shijie Zhang, Mugen Peng</author>
-  </entry>
-  <entry>
-    <title>Secrecy Energy Efficiency Maximization for RIS-Assisted UAV Communications via Joint 3D Trajectory and Passive Beamforming Design</title>
-    <id>https://doi.org/10.1109/pimrc69400.2026.11711659</id>
-    <link href="https://doi.org/10.1109/pimrc69400.2026.11711659"/>
-    <updated>2026-09-01T00:00:00+08:00</updated>
-    <summary>自动导读：围绕《Secrecy Energy Efficiency Maximization for RIS-Assisted UAV Communications via Joint 3D Trajectory and Passiv...》所述无人机通信场景，重点关注RIS/智能反射面、资源优化、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
-    <author>Yuan Ren, Xiangen Yu, Xuewei Zhang, Fan Jiang</author>
-  </entry>
-  <entry>
-    <title>RIS-assisted ISAC against heterogeneous malicious entities in low-altitude environments</title>
-    <id>https://doaj.org/article/fc31bb517a0049509c30529b426dfda6</id>
-    <link href="https://doaj.org/article/fc31bb517a0049509c30529b426dfda6"/>
-    <updated>2026-09-01T00:00:00+08:00</updated>
-    <summary>自动导读：围绕《RIS-assisted ISAC against heterogeneous malicious entities in low-altitude environments》所述无人机通信场景，重点关注主动干扰、RIS/智能反射面、ISAC/通感一体展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
-    <author>Meng GU, Yaxi Liu, Boxin He, Peng WANG, Danyang CHEN, Wei Huangfu</author>
   </entry>
 </feed>
