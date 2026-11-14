@@ -3,7 +3,7 @@
   <title>UAV · PLS Radar</title>
   <subtitle>物理层安全 × 无人机通信论文雷达</subtitle>
   <link href="./feed.xml" rel="self"/>
-  <updated>2026-11-13T23:12:11.694Z</updated>
+  <updated>2026-11-14T23:06:09.544Z</updated>
   <id>urn:uav-pls-radar:feed</id>
   <entry>
     <title>Physical layer covert communication for UAV-aided transportation systems via rate-splitting multiple access over Nakagami-m fading</title>
@@ -302,6 +302,14 @@
     <author>Jun Cui, Xueyan Cao, Shubin Wang</author>
   </entry>
   <entry>
+    <title>Covertness Recovery in Multi-RAT UAV Swarms Under Post-Detection Threat Escalation via Lifelong Reinforcement Learning</title>
+    <id>https://doi.org/10.1109/vtc2026-fall68024.2026.11758399</id>
+    <link href="https://doi.org/10.1109/vtc2026-fall68024.2026.11758399"/>
+    <updated>2026-09-01T00:00:00+08:00</updated>
+    <summary>自动导读：围绕《Covertness Recovery in Multi-RAT UAV Swarms Under Post-Detection Threat Escalation via Lifelong Reinforcement...》所述无人机通信场景，重点关注隐蔽通信、主动干扰、资源优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
+    <author>Yinxuan Wu, Xiaohao Xia, Beatriz Lorenzo, Dennis Goeckel, Fikadu T. Dagefu</author>
+  </entry>
+  <entry>
     <title>UAV-Enabled Covert Communication Against Cooperative Detection Under Nakagami-m Channel</title>
     <id>https://doi.org/10.1109/pimrc69400.2026.11711983</id>
     <link href="https://doi.org/10.1109/pimrc69400.2026.11711983"/>
@@ -316,13 +324,5 @@
     <updated>2026-09-01T00:00:00+08:00</updated>
     <summary>自动导读：围绕《Bursty Covert Communication in Finite-Buffer UAV Relay Networks for Autonomous Vehicular Systems》所述无人机通信场景，重点关注隐蔽通信、窃听/安全中断展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
     <author>Viet-Dung Bui, Hung Tran, Thi My Chinh Chu, Hans‐Jürgen Zepernick, Van Nhan Vo, Tu Dac Ho</author>
-  </entry>
-  <entry>
-    <title>Joint 3D Trajectory and Tilt Angle Optimization for UAV-Assisted Secure Communications</title>
-    <id>https://doi.org/10.1109/pimrc69400.2026.11711730</id>
-    <link href="https://doi.org/10.1109/pimrc69400.2026.11711730"/>
-    <updated>2026-09-01T00:00:00+08:00</updated>
-    <summary>自动导读：围绕《Joint 3D Trajectory and Tilt Angle Optimization for UAV-Assisted Secure Communications》所述无人机通信场景，重点关注保密速率、轨迹/功率优化、窃听/安全中断展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
-    <author>Xingyu Du, PIng Yang, Yueling Zhao, Yue Xiao, Gang Wu, Sa Xiao, Vladimir K. Poulkov, Zilong Liu</author>
   </entry>
 </feed>
