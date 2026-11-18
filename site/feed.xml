@@ -3,8 +3,16 @@
   <title>UAV · PLS Radar</title>
   <subtitle>物理层安全 × 无人机通信论文雷达</subtitle>
   <link href="./feed.xml" rel="self"/>
-  <updated>2026-11-16T23:14:40.942Z</updated>
+  <updated>2026-11-18T03:47:42.909Z</updated>
   <id>urn:uav-pls-radar:feed</id>
+  <entry>
+    <title>Performance Analysis of Covert Communications in Dual-UAV Systems with Colluding Wardens</title>
+    <id>https://doi.org/10.3390/electronics15225293</id>
+    <link href="https://doi.org/10.3390/electronics15225293"/>
+    <updated>2026-11-14T00:00:00+08:00</updated>
+    <summary>自动导读：围绕《Performance Analysis of Covert Communications in Dual-UAV Systems with Colluding Wardens》所述无人机通信场景，重点关注隐蔽通信、主动干扰、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
+    <author>Chan Gao, Surui Liu, Qian Wang, Taotao Huang</author>
+  </entry>
   <entry>
     <title>Physical layer covert communication for UAV-aided transportation systems via rate-splitting multiple access over Nakagami-m fading</title>
     <id>https://doi.org/10.1371/journal.pone.0361873</id>
@@ -316,13 +324,5 @@
     <updated>2026-09-01T00:00:00+08:00</updated>
     <summary>自动导读：围绕《UAV-Enabled Covert Communication Against Cooperative Detection Under Nakagami-m Channel》所述无人机通信场景，重点关注隐蔽通信、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
     <author>Peng Wu, Xiaopeng Yuan, Yulin Hu, Anke Schmeink</author>
-  </entry>
-  <entry>
-    <title>Bursty Covert Communication in Finite-Buffer UAV Relay Networks for Autonomous Vehicular Systems</title>
-    <id>https://doi.org/10.1109/pimrc69400.2026.11711797</id>
-    <link href="https://doi.org/10.1109/pimrc69400.2026.11711797"/>
-    <updated>2026-09-01T00:00:00+08:00</updated>
-    <summary>自动导读：围绕《Bursty Covert Communication in Finite-Buffer UAV Relay Networks for Autonomous Vehicular Systems》所述无人机通信场景，重点关注隐蔽通信、窃听/安全中断展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
-    <author>Viet-Dung Bui, Hung Tran, Thi My Chinh Chu, Hans‐Jürgen Zepernick, Van Nhan Vo, Tu Dac Ho</author>
   </entry>
 </feed>
