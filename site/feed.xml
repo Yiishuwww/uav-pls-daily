@@ -3,8 +3,16 @@
   <title>UAV · PLS Radar</title>
   <subtitle>物理层安全 × 无人机通信论文雷达</subtitle>
   <link href="./feed.xml" rel="self"/>
-  <updated>2026-11-19T03:46:06.752Z</updated>
+  <updated>2026-11-20T03:40:08.366Z</updated>
   <id>urn:uav-pls-radar:feed</id>
+  <entry>
+    <title>Secrecy performance analysis of UAV relay‑aided fluid antenna systems</title>
+    <id>https://doi.org/10.1117/12.3134002</id>
+    <link href="https://doi.org/10.1117/12.3134002"/>
+    <updated>2026-11-17T00:00:00+08:00</updated>
+    <summary>自动导读：围绕《Secrecy performance analysis of UAV relay‑aided fluid antenna systems》所述无人机通信场景，重点关注保密速率、窃听/安全中断展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
+    <author>Xinran He, Rui Ma, Tuanwei Tian, Jinlong Zhang</author>
+  </entry>
   <entry>
     <title>Performance Analysis of Covert Communications in Dual-UAV Systems with Colluding Wardens</title>
     <id>https://doi.org/10.3390/electronics15225293</id>
@@ -84,6 +92,14 @@
     <updated>2026-11-01T00:00:00+08:00</updated>
     <summary>自动导读：围绕《Joint Communication and Computation Optimization for Secure UAV Relay-MEC With Friendly Jamming》所述无人机通信场景，重点关注主动干扰、轨迹/功率优化展开。当前来源未提供摘要，建议通过原文进一步核验研究问题与结论。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
     <author>Phuong T. Tran, Bui Anh Duc, Tran Manh Hoang, Xuan Nam Tran, Thanh Trung Nguyen</author>
+  </entry>
+  <entry>
+    <title>Physical-Layer Security in UAV-Assisted Energy-Harvesting Cognitive Radio Networks: A Multi-Agent PER-D3QN Resource-Allocation Framework</title>
+    <id>https://doi.org/10.1016/j.phycom.2026.103470</id>
+    <link href="https://doi.org/10.1016/j.phycom.2026.103470"/>
+    <updated>2026-11-01T00:00:00+08:00</updated>
+    <summary>自动导读：围绕《Physical-Layer Security in UAV-Assisted Energy-Harvesting Cognitive Radio Networks: A Multi-Agent PER-D3QN Re...》所述无人机通信场景展开。当前来源未提供摘要，建议通过原文进一步核验研究问题与结论。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
+    <author>Rong Wang, Jun Wang, Zhibing Zheng, Shenglan Chen, Chao Zhang</author>
   </entry>
   <entry>
     <title>Efficient Joint Trajectory Optimization and Resource Allocation for Secure UAV Networks: A Deep Reinforcement Learning Approach</title>
@@ -308,21 +324,5 @@
     <updated>2026-09-01T00:00:00+08:00</updated>
     <summary>自动导读：围绕《Robust Secure UAV-RIS-Aided ISAC Against Multiple Intelligent Eavesdroppers》所述无人机通信场景，重点关注主动干扰、RIS/智能反射面、ISAC/通感一体展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
     <author>Jun Cui, Xueyan Cao, Shubin Wang</author>
-  </entry>
-  <entry>
-    <title>Covertness Recovery in Multi-RAT UAV Swarms Under Post-Detection Threat Escalation via Lifelong Reinforcement Learning</title>
-    <id>https://doi.org/10.1109/vtc2026-fall68024.2026.11758399</id>
-    <link href="https://doi.org/10.1109/vtc2026-fall68024.2026.11758399"/>
-    <updated>2026-09-01T00:00:00+08:00</updated>
-    <summary>自动导读：围绕《Covertness Recovery in Multi-RAT UAV Swarms Under Post-Detection Threat Escalation via Lifelong Reinforcement...》所述无人机通信场景，重点关注隐蔽通信、主动干扰、资源优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
-    <author>Yinxuan Wu, Xiaohao Xia, Beatriz Lorenzo, Dennis Goeckel, Fikadu T. Dagefu</author>
-  </entry>
-  <entry>
-    <title>UAV-Enabled Covert Communication Against Cooperative Detection Under Nakagami-m Channel</title>
-    <id>https://doi.org/10.1109/pimrc69400.2026.11711983</id>
-    <link href="https://doi.org/10.1109/pimrc69400.2026.11711983"/>
-    <updated>2026-09-01T00:00:00+08:00</updated>
-    <summary>自动导读：围绕《UAV-Enabled Covert Communication Against Cooperative Detection Under Nakagami-m Channel》所述无人机通信场景，重点关注隐蔽通信、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
-    <author>Peng Wu, Xiaopeng Yuan, Yulin Hu, Anke Schmeink</author>
   </entry>
 </feed>
