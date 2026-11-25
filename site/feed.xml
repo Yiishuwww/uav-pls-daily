@@ -3,8 +3,16 @@
   <title>UAV · PLS Radar</title>
   <subtitle>物理层安全 × 无人机通信论文雷达</subtitle>
   <link href="./feed.xml" rel="self"/>
-  <updated>2026-11-24T06:17:06.539Z</updated>
+  <updated>2026-11-25T04:59:12.239Z</updated>
   <id>urn:uav-pls-radar:feed</id>
+  <entry>
+    <title>Waveform Randomization for Secure ISAC Against Informed Eavesdroppers</title>
+    <id>https://arxiv.org/abs/2611.32506v1</id>
+    <link href="https://arxiv.org/abs/2611.32506v1"/>
+    <updated>2026-11-24T00:00:00+08:00</updated>
+    <summary>自动导读：围绕《Waveform Randomization for Secure ISAC Against Informed Eavesdroppers》所述无人机通信场景，重点关注ISAC/通感一体、窃听/安全中断展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
+    <author>Zexin Fang, Bin Han, Shuangyang Li, Hans D. Schotten</author>
+  </entry>
   <entry>
     <title>Secrecy performance analysis of UAV relay‑aided fluid antenna systems</title>
     <id>https://doi.org/10.1117/12.3134002</id>
@@ -316,13 +324,5 @@
     <updated>2026-09-08T00:00:00+08:00</updated>
     <summary>自动导读：围绕《Secrecy outage and capacity analysis for UAV-assisted IRS-aided G2G system》所述无人机通信场景，重点关注保密速率、RIS/智能反射面、窃听/安全中断展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
     <author>Nikita Goel, Pankaj Kumar, Sandesh Jain, Manoj Tolani, Swati Varun Yadav, Sam Darshi</author>
-  </entry>
-  <entry>
-    <title>Enhancing UAV Trajectory and Communications Through Vision-Inertial Tracking</title>
-    <id>https://arxiv.org/abs/2609.03099</id>
-    <link href="https://arxiv.org/abs/2609.03099"/>
-    <updated>2026-09-02T00:00:00+08:00</updated>
-    <summary>自动导读：围绕《Enhancing UAV Trajectory and Communications Through Vision-Inertial Tracking》所述无人机通信场景，重点关注资源优化、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。</summary>
-    <author>Abdallah S. Ghazy, Hussein A. Ammar, James H. Bayes, François Chan</author>
   </entry>
 </feed>
