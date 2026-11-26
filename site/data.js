@@ -2,7 +2,7 @@ window.UAV_PLS_DATA = {
   "meta": {
     "title": "UAV · PLS Radar",
     "subtitle": "物理层安全 × 无人机通信论文雷达",
-    "generatedAt": "2026-11-25T04:59:12.239Z",
+    "generatedAt": "2026-11-26T04:17:54.545Z",
     "timezone": "Asia/Shanghai",
     "lookbackDays": 90,
     "archiveDays": 400,
@@ -18,7 +18,7 @@ window.UAV_PLS_DATA = {
     "last7Days": 1,
     "published": 51,
     "preprints": 29,
-    "openAccess": 64,
+    "openAccess": 66,
     "topicCounts": {
       "物理层安全": 80,
       "无人机通信": 80,
@@ -234,7 +234,8 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中物理层安全核心主题；涉及物理层安全、无人机通信、ISAC/通感一体",
       "firstSeenAt": "2026-11-25T04:59:12.239Z",
       "firstSeenDate": "2026-11-25",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z"
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
+      "persisted": true
     },
     {
       "id": "p_f6508deb",
@@ -273,7 +274,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Secrecy performance analysis of UAV relay‑aided fluid antenna systems》所述无人机通信场景，重点关注保密速率、窃听/安全中断展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率；正式发表记录",
       "firstSeenAt": "2026-11-20T03:40:08.366Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-11-20",
       "persisted": true
     },
@@ -315,7 +316,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Performance Analysis of Covert Communications in Dual-UAV Systems with Colluding Wardens》所述无人机通信场景，重点关注隐蔽通信、主动干扰、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、隐蔽通信；正式发表记录",
       "firstSeenAt": "2026-11-18T03:47:42.909Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-11-18",
       "persisted": true
     },
@@ -360,7 +361,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、隐蔽通信；正式发表记录",
       "firstSeenAt": "2026-11-13T23:12:11.694Z",
       "firstSeenDate": "2026-11-14",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -400,7 +401,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率；正式发表记录",
       "firstSeenAt": "2026-11-13T23:12:11.694Z",
       "firstSeenDate": "2026-11-14",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -441,7 +442,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Secrecy Capacity Maximization in UAV-Assisted RSMA Systems with Mobile Users Using Multi-agent Deep Reinforce...》所述无人机通信场景，重点关注保密速率展开。当前来源未提供摘要，建议通过原文进一步核验研究问题与结论。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；涉及物理层安全、无人机通信、保密速率；正式发表记录",
       "firstSeenAt": "2026-11-12T23:14:01.250Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-11-13",
       "persisted": true
     },
@@ -483,7 +484,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率",
       "firstSeenAt": "2026-11-13T23:12:11.694Z",
       "firstSeenDate": "2026-11-14",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -528,7 +529,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率；正式发表记录",
       "firstSeenAt": "2026-11-10T23:10:24.248Z",
       "firstSeenDate": "2026-11-11",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -567,7 +568,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《An unmanned aerial vehicle-carried RIS covert communication mechanism》所述无人机通信场景，重点关注隐蔽通信、RIS/智能反射面展开。当前来源未提供摘要，建议通过原文进一步核验研究问题与结论。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；涉及物理层安全、无人机通信、隐蔽通信；正式发表记录",
       "firstSeenAt": "2026-11-07T23:05:04.896Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-11-08",
       "persisted": true
     },
@@ -608,7 +609,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Three-Timescale Covert Communications for Fluid Antenna Empowered Low-Altitude ISAC Systems》所述无人机通信场景，重点关注隐蔽通信、ISAC/通感一体展开。当前来源未提供摘要，建议通过原文进一步核验研究问题与结论。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；涉及物理层安全、无人机通信、隐蔽通信；正式发表记录",
       "firstSeenAt": "2026-11-08T23:05:43.872Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-11-09",
       "persisted": true
     },
@@ -651,7 +652,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率；正式发表记录",
       "firstSeenAt": "2026-11-07T23:05:04.896Z",
       "firstSeenDate": "2026-11-08",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -692,7 +693,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Joint Communication and Computation Optimization for Secure UAV Relay-MEC With Friendly Jamming》所述无人机通信场景，重点关注主动干扰、轨迹/功率优化展开。当前来源未提供摘要，建议通过原文进一步核验研究问题与结论。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；涉及物理层安全、无人机通信、主动干扰；正式发表记录",
       "firstSeenAt": "2026-11-04T23:14:33.954Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-11-05",
       "persisted": true
     },
@@ -733,7 +734,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；正式发表记录",
       "firstSeenAt": "2026-11-20T03:40:08.366Z",
       "firstSeenDate": "2026-11-20",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -781,7 +782,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率",
       "firstSeenAt": "2026-10-30T23:05:07.826Z",
       "firstSeenDate": "2026-10-31",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -819,7 +820,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Enhancing physical layer security for UAV-assisted satellite-vehicle communication network》所述无人机通信场景展开。当前来源未提供摘要，建议通过原文进一步核验研究问题与结论。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；正式发表记录",
       "firstSeenAt": "2026-10-26T14:24:43.453Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-26",
       "persisted": true
     },
@@ -835,7 +836,7 @@ window.UAV_PLS_DATA = {
         "Trinh Van Chien"
       ],
       "publishedAt": "2026-10-22",
-      "updatedAt": "2026-11-24",
+      "updatedAt": "2026-11-25",
       "source": "arXiv",
       "sources": [
         "arXiv",
@@ -864,7 +865,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、隐蔽通信",
       "firstSeenAt": "2026-11-03T23:14:36.738Z",
       "firstSeenDate": "2026-11-04",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -877,7 +878,7 @@ window.UAV_PLS_DATA = {
         "H. Vincent Poor"
       ],
       "publishedAt": "2026-10-20",
-      "updatedAt": "2026-11-24",
+      "updatedAt": "2026-11-25",
       "source": "OpenAlex",
       "sources": [
         "OpenAlex",
@@ -906,7 +907,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、隐蔽通信",
       "firstSeenAt": "2026-10-26T14:24:43.453Z",
       "firstSeenDate": "2026-10-26",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -944,7 +945,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、NOMA；正式发表记录",
       "firstSeenAt": "2026-10-26T14:29:38.473Z",
       "firstSeenDate": "2026-10-26",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -980,7 +981,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Covert communication and secure transmission of unmanned aerial vehicles assisted by intelligent reflective s...》所述无人机通信场景，重点关注隐蔽通信展开。当前来源未提供摘要，建议通过原文进一步核验研究问题与结论。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；涉及物理层安全、无人机通信、隐蔽通信；正式发表记录",
       "firstSeenAt": "2026-10-26T14:24:43.453Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-26",
       "persisted": true
     },
@@ -1024,7 +1025,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率；正式发表记录",
       "firstSeenAt": "2026-10-26T14:29:38.473Z",
       "firstSeenDate": "2026-10-26",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -1070,7 +1071,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、资源优化；正式发表记录",
       "firstSeenAt": "2026-10-26T14:24:43.453Z",
       "firstSeenDate": "2026-10-26",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -1112,7 +1113,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《UAV-IRS-Assisted D2D Covert Communications With Multiple Eavesdroppers》所述无人机通信场景，重点关注隐蔽通信、RIS/智能反射面、窃听/安全中断展开。当前来源未提供摘要，建议通过原文进一步核验研究问题与结论。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、隐蔽通信；正式发表记录",
       "firstSeenAt": "2026-10-26T14:24:43.453Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-26",
       "persisted": true
     },
@@ -1129,7 +1130,7 @@ window.UAV_PLS_DATA = {
         "Wen Chen"
       ],
       "publishedAt": "2026-10-04",
-      "updatedAt": "2026-11-24",
+      "updatedAt": "2026-11-25",
       "source": "OpenAlex",
       "sources": [
         "OpenAlex",
@@ -1159,7 +1160,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Beamforming and Trajectory Optimization for Aerial RIS-Aided Secure ISAC via Model Predictive Control》所述无人机通信场景，重点关注保密速率、RIS/智能反射面、ISAC/通感一体展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率",
       "firstSeenAt": "2026-10-26T14:24:43.453Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-26",
       "persisted": true
     },
@@ -1203,7 +1204,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率；正式发表记录",
       "firstSeenAt": "2026-11-21T03:23:37.196Z",
       "firstSeenDate": "2026-11-21",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -1218,7 +1219,7 @@ window.UAV_PLS_DATA = {
         "Jingjing Wang"
       ],
       "publishedAt": "2026-10-01",
-      "updatedAt": "2026-11-24",
+      "updatedAt": "2026-11-25",
       "source": "OpenAlex",
       "sources": [
         "OpenAlex",
@@ -1246,19 +1247,19 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、隐蔽通信",
       "firstSeenAt": "2026-10-26T14:24:43.453Z",
       "firstSeenDate": "2026-10-26",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
       "id": "p_734cda23",
       "title": "Eavesdropping Mitigation in RSMA Networks using Latent Space Modification in cGAN Models",
-      "abstract": "Abstract The rate-splitting multiple access (RSMA) systems have redefined the way noise and interference is tackled in wireless networks. Nevertheless, RSMA technique is susceptible to eavesdropping due to free space wireless channel. The present research work aims to propose a mitigation against physical channel information intrusion where conditional generative adversarial network (cGANs) is utilized. In order to make the cGAN model more adaptive and robust, the cosine interpolation of latent space is proposed. More so, the latent space is populated by Gamma random variables which has the capability to represent the wireless fading channel more closely compared to Gaussian noise which is generally used in GAN architectures. An unmanned aerial vehicle (UAV) is assumed to communicate with multiple users on the ground plane in the presence of eavesdroppers. The proposed cosine interpolated Gamma latent space cGAN (CIGLScGAN) deep learning model is used to mitigate the eavesdropping by generating a jamming signal. Further, this artificial jamming signal effects the intruding signal strength, however, generating a residual interference (RI) component which slightly lowers the overall performance. The results show a significant amount of improvement in the secrecy performance of the UAV-RSMA system model in terms of secrecy outage probability and secrecy capacity due to jamming caused by the CIGLScGAN trained model.",
+      "abstract": "Rate-splitting multiple access (RSMA) systems have redefined the way noise and interference is tackled in wireless networks. Nevertheless, RSMA technique is susceptible to eavesdropping due to free space wireless channel. The present research work proposes a mitigation strategy against information intrusion over the physical channel, using a conditional generative adversarial network (c-GAN) deep learning model. To make the c-GAN model more adaptive and robust, cosine interpolation in the latent space has been proposed. Moreover, the latent space is populated by Gamma random variables, which can better represent the wireless fading channel than Gaussian noise, which is generally used as a latent variable in GAN architectures. To demonstrate the concept, an unmanned aerial vehicle (UAV) is assumed to communicate with multiple users on the ground plane using the RSMA protocol in the presence of eavesdropping. The proposed cosine-interpolated Gamma latent space c-GAN (CIGLScGAN) deep learning model is utilized to mitigate eavesdropping by generating a jamming signal. Although this artificial jamming signal affects the intruding signal strength, it also generates a residual interference component that slightly degrades the overall performance. The results show a significant improvement in the secrecy performance of the UAV-RSMA system model, in terms of secrecy outage probability and ergodic secrecy capacity, due to jamming from the proposed CIGLScGAN deep learning model.",
       "authors": [
         "Abhijeet Upadhya",
         "Parul Arora"
       ],
       "publishedAt": "2026-10-01",
-      "updatedAt": "2026-11-24",
+      "updatedAt": "2026-11-25",
       "source": "OpenAlex",
       "sources": [
         "OpenAlex"
@@ -1285,7 +1286,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Eavesdropping Mitigation in RSMA Networks using Latent Space Modification in cGAN Models》所述无人机通信场景，重点关注保密速率、主动干扰、窃听/安全中断展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中物理层安全核心主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率；正式发表记录",
       "firstSeenAt": "2026-10-26T14:24:43.453Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-26",
       "persisted": true
     },
@@ -1302,7 +1303,7 @@ window.UAV_PLS_DATA = {
         "ZHANG Lin"
       ],
       "publishedAt": "2026-10-01",
-      "updatedAt": "2026-11-22",
+      "updatedAt": "2026-11-25",
       "source": "OpenAlex",
       "sources": [
         "OpenAlex"
@@ -1313,10 +1314,10 @@ window.UAV_PLS_DATA = {
       "arxivId": "",
       "doi": "",
       "url": "https://doaj.org/article/20349938c3ff4a0c92d3d31f4dc06418",
-      "openAccessUrl": "",
+      "openAccessUrl": "https://doaj.org/article/20349938c3ff4a0c92d3d31f4dc06418",
       "citations": 0,
       "isPreprint": false,
-      "isOpenAccess": false,
+      "isOpenAccess": true,
       "accepted": true,
       "score": 11,
       "tags": [
@@ -1326,7 +1327,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《High Security Chaotic Encryption-based Visible Light Transmission System for UAVs》所述无人机通信场景展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；摘要形成多重安全证据；正式发表记录",
       "firstSeenAt": "2026-10-27T23:02:27.372Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-28",
       "persisted": true
     },
@@ -1341,7 +1342,7 @@ window.UAV_PLS_DATA = {
         "Tingjun Chen"
       ],
       "publishedAt": "2026-09-30",
-      "updatedAt": "2026-11-24",
+      "updatedAt": "2026-11-25",
       "source": "OpenAlex",
       "sources": [
         "OpenAlex"
@@ -1368,7 +1369,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《ARCTAN: Arbitrary RF Containment Using Tactical Aerial Networks and Differentiable Ray Tracing》所述无人机通信场景，重点关注主动干扰、轨迹/功率优化、窃听/安全中断展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、主动干扰",
       "firstSeenAt": "2026-10-26T14:24:43.453Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-26",
       "persisted": true
     },
@@ -1412,7 +1413,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Poster: Secrecy rate analysis of RIS-assisted UAV networks using DDQN Network》所述无人机通信场景，重点关注保密速率、RIS/智能反射面、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率；正式发表记录",
       "firstSeenAt": "2026-10-26T14:29:38.473Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-26",
       "persisted": true
     },
@@ -1457,7 +1458,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、隐蔽通信；正式发表记录",
       "firstSeenAt": "2026-11-21T03:23:37.196Z",
       "firstSeenDate": "2026-11-21",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -1496,7 +1497,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Three-dimensional trajectory optimization for UAV covert communications under imperfect SIC》所述无人机通信场景，重点关注隐蔽通信、轨迹/功率优化展开。当前来源未提供摘要，建议通过原文进一步核验研究问题与结论。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；涉及物理层安全、无人机通信、隐蔽通信；正式发表记录",
       "firstSeenAt": "2026-10-26T14:24:43.453Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-26",
       "persisted": true
     },
@@ -1542,7 +1543,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《RIS-Assisted Secure ISAC: Fundamentals, Applications, and Future Directions》所述无人机通信场景，重点关注保密速率、RIS/智能反射面、ISAC/通感一体展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率",
       "firstSeenAt": "2026-10-26T14:24:43.453Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-26",
       "persisted": true
     },
@@ -1581,7 +1582,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《FGM copula-based analysis of physical layer security in UAV wiretap channels with correlated Rician coefficients》所述无人机通信场景，重点关注保密速率、窃听/安全中断展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率；正式发表记录",
       "firstSeenAt": "2026-10-26T14:24:43.453Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-26",
       "persisted": true
     },
@@ -1624,7 +1625,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《A Multicast Strategy for Efficiency Enhancement in UAV-Enabled Covert Wireless Communication Systems》所述无人机通信场景，重点关注隐蔽通信展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、隐蔽通信；正式发表记录",
       "firstSeenAt": "2026-11-21T03:23:37.196Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-11-21",
       "persisted": true
     },
@@ -1662,7 +1663,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、主动干扰；正式发表记录",
       "firstSeenAt": "2026-10-26T14:24:43.453Z",
       "firstSeenDate": "2026-10-26",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -1704,7 +1705,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Safeguarding UAV-ISAC networks: Robust covert communications against multiple wardens with location uncertainty》所述无人机通信场景，重点关注隐蔽通信、ISAC/通感一体展开。当前来源未提供摘要，建议通过原文进一步核验研究问题与结论。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；涉及物理层安全、无人机通信、隐蔽通信；正式发表记录",
       "firstSeenAt": "2026-10-26T14:24:43.453Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-26",
       "persisted": true
     },
@@ -1749,7 +1750,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、RIS/智能反射面；正式发表记录",
       "firstSeenAt": "2026-10-26T14:29:38.473Z",
       "firstSeenDate": "2026-10-26",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -1791,7 +1792,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Multi-Beam Cooperative Time-Varying Directional Modulation for Secure Satellite Downlink Transmission to UAV ...》所述无人机通信场景，重点关注保密速率、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率；正式发表记录",
       "firstSeenAt": "2026-10-26T14:29:38.473Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-26",
       "persisted": true
     },
@@ -1836,7 +1837,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、主动干扰；正式发表记录",
       "firstSeenAt": "2026-11-07T23:05:04.896Z",
       "firstSeenDate": "2026-11-08",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -1852,7 +1853,7 @@ window.UAV_PLS_DATA = {
         "Sam Darshi"
       ],
       "publishedAt": "2026-09-08",
-      "updatedAt": "2026-11-24",
+      "updatedAt": "2026-11-25",
       "source": "OpenAlex",
       "sources": [
         "OpenAlex"
@@ -1880,7 +1881,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率；正式发表记录",
       "firstSeenAt": "2026-10-26T14:24:43.453Z",
       "firstSeenDate": "2026-10-26",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -1894,7 +1895,7 @@ window.UAV_PLS_DATA = {
         "François Chan"
       ],
       "publishedAt": "2026-09-02",
-      "updatedAt": "2026-11-24",
+      "updatedAt": "2026-11-25",
       "source": "OpenAlex",
       "sources": [
         "OpenAlex",
@@ -1921,7 +1922,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Enhancing UAV Trajectory and Communications Through Vision-Inertial Tracking》所述无人机通信场景，重点关注资源优化、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、资源优化",
       "firstSeenAt": "2026-10-26T14:24:43.453Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-26",
       "persisted": true
     },
@@ -1968,7 +1969,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Secrecy Rate Maximization for UAV-Mounted Six-Dimensional Movable IRS-Assisted ISAC Systems》所述无人机通信场景，重点关注保密速率、RIS/智能反射面、ISAC/通感一体展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率；正式发表记录",
       "firstSeenAt": "2026-10-26T14:24:43.453Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-26",
       "persisted": true
     },
@@ -2013,7 +2014,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、隐蔽通信；正式发表记录",
       "firstSeenAt": "2026-11-03T23:14:36.738Z",
       "firstSeenDate": "2026-11-04",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -2057,7 +2058,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；涉及物理层安全、无人机通信、主动干扰；正式发表记录",
       "firstSeenAt": "2026-11-03T23:14:36.738Z",
       "firstSeenDate": "2026-11-04",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -2072,7 +2073,7 @@ window.UAV_PLS_DATA = {
         "Fikadu T. Dagefu"
       ],
       "publishedAt": "2026-09-01",
-      "updatedAt": "2026-11-24",
+      "updatedAt": "2026-11-25",
       "source": "OpenAlex",
       "sources": [
         "OpenAlex",
@@ -2100,7 +2101,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Covertness Recovery in Multi-RAT UAV Swarms Under Post-Detection Threat Escalation via Lifelong Reinforcement...》所述无人机通信场景，重点关注隐蔽通信、主动干扰、资源优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、隐蔽通信；正式发表记录",
       "firstSeenAt": "2026-11-14T23:06:09.544Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-11-15",
       "persisted": true
     },
@@ -2141,7 +2142,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《UAV-Enabled Covert Communication Against Cooperative Detection Under Nakagami-m Channel》所述无人机通信场景，重点关注隐蔽通信、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、隐蔽通信；正式发表记录",
       "firstSeenAt": "2026-10-26T14:29:38.473Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-26",
       "persisted": true
     },
@@ -2184,7 +2185,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Bursty Covert Communication in Finite-Buffer UAV Relay Networks for Autonomous Vehicular Systems》所述无人机通信场景，重点关注隐蔽通信、窃听/安全中断展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、隐蔽通信；正式发表记录",
       "firstSeenAt": "2026-11-03T23:14:36.738Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-11-04",
       "persisted": true
     },
@@ -2231,7 +2232,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率；正式发表记录",
       "firstSeenAt": "2026-10-26T14:29:38.473Z",
       "firstSeenDate": "2026-10-26",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -2272,7 +2273,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Cooperative multi-agent DRL-based robust secure transmission in UAV-assisted HetNets》所述无人机通信场景，重点关注轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、轨迹/功率优化；正式发表记录",
       "firstSeenAt": "2026-10-26T14:24:43.453Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-26",
       "persisted": true
     },
@@ -2315,7 +2316,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Secrecy Energy Efficiency Maximization for RIS-Assisted UAV Communications via Joint 3D Trajectory and Passiv...》所述无人机通信场景，重点关注RIS/智能反射面、资源优化、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、RIS/智能反射面；正式发表记录",
       "firstSeenAt": "2026-11-03T23:14:36.738Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-11-04",
       "persisted": true
     },
@@ -2332,7 +2333,7 @@ window.UAV_PLS_DATA = {
         "Wei Huangfu"
       ],
       "publishedAt": "2026-09-01",
-      "updatedAt": "2026-11-24",
+      "updatedAt": "2026-11-25",
       "source": "OpenAlex",
       "sources": [
         "OpenAlex"
@@ -2343,10 +2344,10 @@ window.UAV_PLS_DATA = {
       "arxivId": "",
       "doi": "10.13374/j.issn2095-9389.2026.01.26.002",
       "url": "https://doaj.org/article/fc31bb517a0049509c30529b426dfda6",
-      "openAccessUrl": "",
+      "openAccessUrl": "https://doaj.org/article/fc31bb517a0049509c30529b426dfda6",
       "citations": 0,
       "isPreprint": false,
-      "isOpenAccess": false,
+      "isOpenAccess": true,
       "accepted": true,
       "score": 13.5,
       "tags": [
@@ -2361,7 +2362,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《RIS-assisted ISAC against heterogeneous malicious entities in low-altitude environments》所述无人机通信场景，重点关注主动干扰、RIS/智能反射面、ISAC/通感一体展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、主动干扰；正式发表记录",
       "firstSeenAt": "2026-10-26T14:24:43.453Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-26",
       "persisted": true
     },
@@ -2403,7 +2404,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Utility Maximization Integrating Secrecy, Energy Consumption, and Latency for UAV-Assisted MEC Systems via Du...》所述无人机通信场景，重点关注保密速率、轨迹/功率优化、窃听/安全中断展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率；正式发表记录",
       "firstSeenAt": "2026-10-26T14:29:38.473Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-26",
       "persisted": true
     },
@@ -2446,7 +2447,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、隐蔽通信；正式发表记录",
       "firstSeenAt": "2026-10-26T14:29:38.473Z",
       "firstSeenDate": "2026-10-26",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -2493,7 +2494,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率；正式发表记录",
       "firstSeenAt": "2026-10-26T14:29:38.473Z",
       "firstSeenDate": "2026-10-26",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -2536,7 +2537,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率；正式发表记录",
       "firstSeenAt": "2026-10-26T14:24:43.453Z",
       "firstSeenDate": "2026-10-26",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -2579,7 +2580,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、资源优化",
       "firstSeenAt": "2026-10-26T14:29:38.473Z",
       "firstSeenDate": "2026-10-26",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -2616,7 +2617,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《A Hybrid Explainable AI Framework for Multi-Class Anomaly and Intrusion Detection in UAV and Industrial IoT N...》所述无人机通信场景，重点关注NOMA展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；涉及物理层安全、无人机通信、NOMA；正式发表记录",
       "firstSeenAt": "2026-10-26T14:32:30.151Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-26",
       "persisted": true
     },
@@ -2665,7 +2666,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Resource allocation for secure dual-UAV-assisted ISAC system》所述无人机通信场景，重点关注保密速率、主动干扰、ISAC/通感一体展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率；正式发表记录",
       "firstSeenAt": "2026-10-26T14:29:38.473Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-26",
       "persisted": true
     },
@@ -2710,7 +2711,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、隐蔽通信；正式发表记录",
       "firstSeenAt": "2026-10-26T14:29:38.473Z",
       "firstSeenDate": "2026-10-26",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -2751,7 +2752,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Gbps-rate sub-noise free-space optical communication using optical frequency comb diversity》所述无人机通信场景，重点关注隐蔽通信展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "摘要形成多重安全证据；涉及物理层安全、无人机通信、隐蔽通信；正式发表记录",
       "firstSeenAt": "2026-10-26T14:29:38.473Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-26",
       "persisted": true
     },
@@ -2799,7 +2800,7 @@ window.UAV_PLS_DATA = {
       "reason": "摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率",
       "firstSeenAt": "2026-10-27T23:02:27.372Z",
       "firstSeenDate": "2026-10-28",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -2844,7 +2845,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《DRL-Based Secure Transmission for Rotatable Antenna-Enabled Low-Altitude ISAC Systems》所述无人机通信场景，重点关注保密速率、ISAC/通感一体、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率",
       "firstSeenAt": "2026-10-26T14:29:38.473Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-26",
       "persisted": true
     },
@@ -2888,7 +2889,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Flying Reconfigurable Intelligent Surfaces for 6G: Enhancing Physical Layer Security in Low-Altitude Wireless...》所述无人机通信场景，重点关注RIS/智能反射面、ISAC/通感一体展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；涉及物理层安全、无人机通信、RIS/智能反射面；正式发表记录",
       "firstSeenAt": "2026-10-30T23:05:07.826Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-31",
       "persisted": true
     },
@@ -2928,7 +2929,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Robust Beamforming for Physical-Layer Security in RIS-Assisted UAV Networks》所述无人机通信场景，重点关注保密速率、RIS/智能反射面、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率；正式发表记录",
       "firstSeenAt": "2026-10-26T14:24:43.453Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-26",
       "persisted": true
     },
@@ -2976,7 +2977,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率",
       "firstSeenAt": "2026-10-27T23:02:27.372Z",
       "firstSeenDate": "2026-10-28",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -3021,7 +3022,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Deep Reinforcement Learning for Cognitive Time-Division Joint SAR and Secure Communications》所述无人机通信场景，重点关注保密速率、主动干扰、ISAC/通感一体展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率",
       "firstSeenAt": "2026-10-27T23:02:27.372Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-28",
       "persisted": true
     },
@@ -3064,7 +3065,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Digital Twin Enabled Simultaneous Learning and Modeling for UAV-assisted Secure Communications with Eavesdrop...》所述无人机通信场景，重点关注主动干扰、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；涉及物理层安全、无人机通信、主动干扰",
       "firstSeenAt": "2026-10-27T23:02:27.372Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-28",
       "persisted": true
     },
@@ -3108,7 +3109,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Secure Rate-Splitting and RIS Beamforming with Untrusted Energy Harvesting Receivers》所述无人机通信场景，重点关注保密速率、RIS/智能反射面、NOMA展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率",
       "firstSeenAt": "2026-10-27T23:02:27.372Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-28",
       "persisted": true
     },
@@ -3150,7 +3151,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《RHOSI: Efficient Anti-Jamming Resource Allocation with Holographic Surfaces in UAV-enabled ISAC》所述无人机通信场景，重点关注主动干扰、ISAC/通感一体、资源优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；涉及物理层安全、无人机通信、主动干扰",
       "firstSeenAt": "2026-10-27T23:02:27.372Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-28",
       "persisted": true
     },
@@ -3194,7 +3195,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中物理层安全核心主题；涉及物理层安全、无人机通信、隐蔽通信",
       "firstSeenAt": "2026-11-13T23:12:11.694Z",
       "firstSeenDate": "2026-11-14",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -3242,7 +3243,7 @@ window.UAV_PLS_DATA = {
       "reason": "摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率",
       "firstSeenAt": "2026-10-27T23:02:27.372Z",
       "firstSeenDate": "2026-10-28",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -3285,7 +3286,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、轨迹/功率优化",
       "firstSeenAt": "2026-10-27T23:02:27.372Z",
       "firstSeenDate": "2026-10-28",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -3332,7 +3333,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、隐蔽通信",
       "firstSeenAt": "2026-10-27T23:02:27.372Z",
       "firstSeenDate": "2026-10-28",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -3371,7 +3372,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Turning Threat into Opportunity: DRL-Powered Anti-Jamming via Energy Harvesting in UAV-Disrupted Channels》所述无人机通信场景，重点关注主动干扰展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、主动干扰",
       "firstSeenAt": "2026-10-27T23:02:27.372Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-28",
       "persisted": true
     },
@@ -3412,7 +3413,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Bayesian Active Inference for Intelligent UAV Anti-Jamming and Adaptive Trajectory Planning》所述无人机通信场景，重点关注主动干扰、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；涉及物理层安全、无人机通信、主动干扰",
       "firstSeenAt": "2026-10-27T23:02:27.372Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-28",
       "persisted": true
     },
@@ -3451,7 +3452,7 @@ window.UAV_PLS_DATA = {
       "summaryZh": "自动导读：围绕《Anti-Jamming based on Null-Steering Antennas and Intelligent UAV Swarm Behavior》所述无人机通信场景，重点关注主动干扰、轨迹/功率优化展开。摘要提供了系统模型、优化方法与安全性能分析线索。建议重点阅读系统假设、威胁模型、优化算法与性能界。",
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；涉及物理层安全、无人机通信、主动干扰",
       "firstSeenAt": "2026-10-27T23:02:27.372Z",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "firstSeenDate": "2026-10-28",
       "persisted": true
     },
@@ -3499,7 +3500,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率",
       "firstSeenAt": "2026-10-27T23:02:27.372Z",
       "firstSeenDate": "2026-10-28",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -3540,7 +3541,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、隐蔽通信",
       "firstSeenAt": "2026-10-27T23:02:27.372Z",
       "firstSeenDate": "2026-10-28",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -3585,7 +3586,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；标题命中物理层安全核心主题；涉及物理层安全、无人机通信、隐蔽通信",
       "firstSeenAt": "2026-10-27T23:02:27.372Z",
       "firstSeenDate": "2026-10-28",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     },
     {
@@ -3633,7 +3634,7 @@ window.UAV_PLS_DATA = {
       "reason": "标题命中无人机主题；摘要形成多重安全证据；涉及物理层安全、无人机通信、保密速率",
       "firstSeenAt": "2026-10-27T23:02:27.372Z",
       "firstSeenDate": "2026-10-28",
-      "lastSeenAt": "2026-11-25T04:59:12.239Z",
+      "lastSeenAt": "2026-11-26T04:17:54.545Z",
       "persisted": true
     }
   ]
